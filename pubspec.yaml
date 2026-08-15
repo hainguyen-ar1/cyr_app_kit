@@ -19,8 +19,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cyr_flutter_core:
-    path: ../../cyr_flutter_core
+  cyr_flutter_core: ^0.1.0
 
   dio: ^5.7.0
   flutter_bloc: ^9.1.1
